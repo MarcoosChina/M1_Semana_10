@@ -1,0 +1,36 @@
+body {
+  background-color: #eda782;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.container-2 {
+  display: flex;
+  justify-content: flex-end;
+  gap: 16px;
+}
+.container-3 {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.container-4 {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+.container-5 {
+  display: flex;
+  justify-content: space-around; /*justify-content: space-evenly;*/
+  gap: 16px;
+}
+
+.item {
+  height: 100px;
+  width: 100px;
+  background-color: #1625f5;
+}
+

@@ -1,0 +1,18 @@
+body {
+  background-color: #eda782;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  height: 90vh;
+  align-content: center;
+}
+
+.item {
+  height: 100px;
+  width: 100px;
+  background-color: #1625f5;
+}
+

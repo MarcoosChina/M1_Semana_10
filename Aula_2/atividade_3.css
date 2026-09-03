@@ -1,0 +1,18 @@
+body {
+  background-color: #eda782;
+}
+
+.container {
+  display: flex;
+  gap: 16px;
+  height: 80vh;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.item {
+  height: 100px;
+  width: 100px;
+  background-color: #1625f5;
+}
+
